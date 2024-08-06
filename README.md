@@ -1,10 +1,11 @@
 Interactive Games for Higher Education
+Game: Escape Room for LA 83 First Year Seminar in Liberal Arts at Penn State University
 
 Author: Lindsey Chandler, Ph.D. (lchandler@psu.edu)
 Created: 24 October 2023
-Last Updated: 22 July 2024 
+Last Updated: 6 August 2024 
  
-This repository contains code files and instruction documentation for games that are used in the classroom. These games increase student engagement, connect their active learning to course-set objectives, and expose learners to different technological tools beyond the simple lecture-assessment presentation format in higher education.
+This repository is one that contains code and instruction documentation for interactive games that are used in the classroom. These games increase student engagement, connect their active learning to course-set objectives, and expose learners to different technological tools beyond the simple lecture-assessment presentation format in higher education.
 
 The repository currently contains the following game(s): 
 * Escape Room for LA 83: First Year Seminar in Liberal Arts (First deployed in Fall 2023)
